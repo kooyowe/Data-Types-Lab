@@ -1,5 +1,5 @@
-# Data-Types-Lab
-Data Types Lab for Andela Fellow Cohort X Bootcamp
+# Data-Types-test
+
 Compare and return results, based on the argument supplied to the function. Follow through the test to produce the perfect function that accounts for all expectations.
 
 For strings, return its length.
